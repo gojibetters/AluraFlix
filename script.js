@@ -48,7 +48,7 @@ function verifyExtensionRemove() {
         }
     }
 
-    //      2. APRESENTAR O NOME DOS FILMES ACIMA DA CARTAZ
+    //TODO: 2. APRESENTAR O NOME DOS FILMES ACIMA DA CARTAZ
 
     document.getElementById("filme").value = "";
 }
